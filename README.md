@@ -7,7 +7,6 @@
 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=S1ckle&show_icons=true)
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=S1ckle&theme=blue-green)
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=S1ckle)
 ─────────────────────────────────────
 
 ### ● 🖥️ Domain's
