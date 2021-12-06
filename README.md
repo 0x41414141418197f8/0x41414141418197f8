@@ -6,8 +6,8 @@
 <a href="https://twitter.com/dbo0verfl0w"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsguru.org%2Fwp-content%2Fuploads%2F2018%2F02%2Ftwitter-circled.png&f=1&nofb=1" width="60"></a>
 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=S1ckle&show_icons=true)
- 
  ─────────────────────────────────────
+ 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=S1ckle&theme=blue-green)
 ─────────────────────────────────────
 
