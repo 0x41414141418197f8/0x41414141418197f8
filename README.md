@@ -1,5 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/824038916062838784/867089839756410920/InTheShell-Banner.png" width="520">
-
 <h1>How to contact me ? 📝</h1>
 <br>
 <a href="https://discord.gg/Hdw8Bg6CAC"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" width="60"></a>
@@ -18,6 +16,6 @@
  ➥💻Assembly
 
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dbo0verfl0w&theme=blue-green)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dbo0verfl0w&theme=dark)
  
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dbo0verfl0w&show_icons=true)
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dbo0verfl0w&show_icons=true&theme=dark)
