@@ -4,7 +4,7 @@
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/HeapStack.png" alt="TryHackMe">
 
-<a href="https://tryhackme.com/p/HeapStack" rel="nofollow"><img src="https://tryhackme-images.s3.amazonaws.com/room-icons/c916cc3206c2199f9b5e9db43d5a15e9.png" data-canonical-src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" style="max-width: 100%;" width="100"></a>
+<a href="https://tryhackme.com/p/HeapStack" rel="nofollow"><img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" data-canonical-src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" style="max-width: 100%;" width="100"></a>
 
 ─────────────────────────────────────
 
